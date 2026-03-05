@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Mohamed Reda</h1>
 
-<!--
-**MohamadReda66/MohamadReda66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Developer | React Developer | Computer Science Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Computer+Science+Student;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student  
+- 💻 Frontend Developer  
+- ⚛️ React Developer  
+- 🌐 Strong knowledge of **HTML, CSS, JavaScript**  
+- 💻 Experience with **C++ Programming**  
+- 🧠 Understanding of **Object-Oriented Programming (OOP)**  
+- 🚀 Passionate about building web applications
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MohamadReda66&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadReda66&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MohamadReda66&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohamed-reda-813201343">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MohamadReda66">
+<img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/m_h_1212123">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:reda28112005@gmail.com">
+<img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201287332231">
+<img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ Always learning and building new projects
